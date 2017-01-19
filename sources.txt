@@ -1,0 +1,6 @@
+Formulas and some of the concepts used come from:
+http://www.chiark.greenend.org.uk/~sgtatham/newton/
+https://en.wikipedia.org/wiki/Newton_fractal
+https://en.wikipedia.org/wiki/HSL_and_HSV#From_HSL
+https://en.wikipedia.org/wiki/Color_wheel_graphs_of_complex_functions
+Inspired by the University of Edinburgh Programming Club
